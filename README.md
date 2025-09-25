@@ -8,7 +8,8 @@
 - 🔭 Currently exploring **Django REST Framework, AWS & Docker**  
 - 📧 Reach me at: **bhuiyantawfica@gmail.com**  
 -✨ Hobby: I enjoy outing, gardening 🌱, gaming 🎮, watching movies 🎬, and playing chess ♟️
--⚡ Fun fact: The unreasonable entity in my reasonable (confusing 🤔) existence 😎
+
+-⚡ Fun Fact: The unreasonable entity in my reasonable (confusing 🤔) existence 😎
 
 ---
 
