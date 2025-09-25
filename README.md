@@ -1,5 +1,5 @@
-<h1 align="center">🌟 Hi there, I'm <span style="color:#ff5733;">Tawfica Bhuiyan</span> 👋</h1>  
-<h3 align="center">💻 Competitive Programmer | Backend Developer | Problem Solver 🚀</h3>  
+<h1 align="center">🌟 Greetings, I'm <span style="color:#ff5733;">Tawfica Bhuiyan</span> 👋</h1>  
+<h3 align="center">💻 Competitive Programmer| AI Enthuthiast | | Backend Developer | Problem Solver 🚀</h3>  
 
 ---
 
@@ -7,7 +7,8 @@
 - 🎓 **4th-year student** at *Institute of Information Technology, Jahangirnagar University*  
 - 🔭 Currently exploring **Django REST Framework, AWS & Docker**  
 - 📧 Reach me at: **bhuiyantawfica@gmail.com**  
-- ⚡ Fun fact: I enjoy **outing, gaming 🎮, watching movies 🎬, and playing chess ♟️**  
+-✨ Hobby: I enjoy outing, gardening 🌱, gaming 🎮, watching movies 🎬, and playing chess ♟️
+-⚡ Fun fact: The unreasonable entity in my reasonable (confusing 🤔) existence 😎
 
 ---
 
