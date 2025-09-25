@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Greetings, I'm <span style="color:#ff5733;">Tawfica Bhuiyan</span> 👋</h1>  
-<h3 align="center">💻 Competitive Programmer| AI Enthuthiast | | Backend Developer | Problem Solver 🚀</h3>  
+<h3 align="center">💻 Competitive Programmer | AI Enthuthiast | Backend Developer | Problem Solver 🚀</h3>  
 
 ---
 
