@@ -5,11 +5,11 @@
 
 ### 🌱 About Me  
 - 🎓 **4th-year student** at *Institute of Information Technology, Jahangirnagar University*  
-- 🔭 Currently exploring **Django REST Framework, AWS & Docker**  
+- 💼 **AI/ML Intern @ TechKnowGram Ltd.**  
+- 🔭 Currently exploring **LLMs, LangChain, Machine Learning, AWS & Docker**  
 - 📧 Reach me at: **bhuiyantawfica@gmail.com**  
--✨ Hobby: I enjoy outing, gardening 🌱, gaming 🎮, watching movies 🎬, and playing chess ♟️
-
--⚡ Fun Fact: The unreasonable entity in my reasonable (confusing 🤔) existence 😎
+- ✨ Hobby: I enjoy outing, gardening 🌱, gaming 🎮, watching movies 🎬, and playing chess ♟️  
+- ⚡ Fun Fact: The unreasonable entity in my reasonable (confusing 🤔) existence 😎
 
 ---
 
@@ -39,7 +39,8 @@
 | **UU IUPC 2025** | 🏅 28th Place |
 | **DUET IUPC 2025** | 🏅 44th Place |
 | **NGPC 2022** | 🎯 42nd Place |
-| **IEEEXtreme 18.0 (2024)** | ⚡ 16th in Bangladesh Section |
+| **IEEEXtreme 19.0 (2025)** | ⚡ 13th in Bangladesh Section |
+| **8𝐭𝐡 𝐃𝐑𝐌𝐂 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐞𝐜𝐡 𝐂𝐚𝐫𝐧𝐢𝐯𝐚𝐥 2025** | 🏆 Proud to share that our team 𝐉𝐔_𝐖𝐚𝐭𝐞𝐫𝐥𝐨𝐨 achieved 13𝐭𝐡 place in the onsite programming contest. |
 | **ICPC Dhaka Regional Preliminary 2023** | 🌍 Top 11.25% (279/2479) |
 | **ICPC Dhaka Regional Preliminary 2024** | 🌍 Top 16.8% (411/2489) |
 
@@ -60,9 +61,11 @@
 
 | 🔹 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|---------------|
-| [**Portfolio Website**](https://github.com/TawficaBhuiyan/myPortfolio) | Personal portfolio showcasing my skills & work | HTML, CSS, JavaScript |
-| [**Library Management Borrowing System**](https://github.com/TawficaBhuiyan/Library-Management-Borrowing-System) | CRUD app with authentication, MySQL DB, and API testing | Python, Django, DRF, MySQL |
-| [**Spotify Clone**](https://github.com/TawficaBhuiyan/SpotifyClone) | Music & playlist interface clone | HTML, CSS, JavaScript |
+| [**MovieLens Recommender**](https://github.com/TawficaBhuiyan/MovieLens_Recommender) | Built a movie recommendation system using collaborative filtering techniques. | Python, Pandas, Scikit-learn |
+| [**AI Text Summarizer**](https://github.com/TawficaBhuiyan/ai-text-summarizer) | LLM-based text summarizer using transformers for extractive and abstractive summaries. | Python, LangChain, HuggingFace, Transformers |
+| [**Portfolio Website**](https://github.com/TawficaBhuiyan/myPortfolio) | Personal portfolio showcasing my skills & work. | HTML, CSS, JavaScript |
+| [**Library Management Borrowing System**](https://github.com/TawficaBhuiyan/Library-Management-Borrowing-System) | CRUD app with authentication, MySQL DB, and API testing. | Python, Django, DRF, MySQL |
+| [**Spotify Clone**](https://github.com/TawficaBhuiyan/SpotifyClone) | Music & playlist interface clone. | HTML, CSS, JavaScript |
 
 ---
 
