@@ -61,7 +61,6 @@
 
 | 🔹 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|---------------|
-https://github.com/TawficaBhuiyan/NeoIITian
 | [**NeoIITian**](https://github.com/TawficaBhuiyan/NeoIITian) | AI-powered chatbot that acts as a virtual software engineer, answering computer science–related queries using LLMs. | Python, LangChain, Streamlit, Gemini |
 | [**AI Text Summarizer**](https://github.com/TawficaBhuiyan/ai-text-summarizer) | LLM-based text summarizer using transformers for extractive and abstractive summaries. | Python, LangChain, HuggingFace, Transformers |
 | [**MovieLens Recommender**](https://github.com/TawficaBhuiyan/MovieLens_Recommender) | Built a movie recommendation system using collaborative filtering techniques. | Python, Pandas, Scikit-learn |
