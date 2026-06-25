@@ -5,8 +5,6 @@
 
 ### 🌱 About Me  
 - 🎓 **4th-year student** at *Institute of Information Technology, Jahangirnagar University*  
-- 💼 **AI/ML Intern @ TechKnowGram Ltd.**  
-- 🔭 Currently exploring **LLMs, LangChain, Machine Learning, AWS & Docker**  
 - 📧 Reach me at: **bhuiyantawfica@gmail.com**  
 - ✨ Hobby: I enjoy outing, gardening 🌱, gaming 🎮, watching movies 🎬, and playing chess ♟️  
 - ⚡ Fun Fact: The unreasonable entity in my reasonable (confusing 🤔) existence 😎
@@ -24,9 +22,9 @@
 
 ## 🛠️ Skills  
 
-| **Domain Expertise** | **Languages** | **Frameworks** | **Web** | **Cloud & DevOps** | **Tools** |
+| **Domain Expertise** | **Languages** | **Frameworks** | **Web** | **Tools** |
 |-----------------------|---------------|----------------|---------|--------------------|-----------|
-| DSA ⚡ Problem Solving | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| DSA ⚡ Problem Solving | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
 
