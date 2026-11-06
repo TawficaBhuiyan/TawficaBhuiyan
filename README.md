@@ -63,8 +63,6 @@
 | [**AI Text Summarizer**](https://github.com/TawficaBhuiyan/ai-text-summarizer) | LLM-based text summarizer using transformers for extractive and abstractive summaries. | Python, LangChain, HuggingFace, Transformers |
 | [**MovieLens Recommender**](https://github.com/TawficaBhuiyan/MovieLens_Recommender) | Built a movie recommendation system using collaborative filtering techniques. | Python, Pandas, Scikit-learn |
 | [**Portfolio Website**](https://github.com/TawficaBhuiyan/myPortfolio) | Personal portfolio showcasing my skills & work. | HTML, CSS, JavaScript |
-| [**Library Management Borrowing System**](https://github.com/TawficaBhuiyan/Library-Management-Borrowing-System) | CRUD app with authentication, MySQL DB, and API testing. | Python, Django, DRF, MySQL |
-| [**Spotify Clone**](https://github.com/TawficaBhuiyan/SpotifyClone) | Music & playlist interface clone. | HTML, CSS, JavaScript |
 
 ---
 
